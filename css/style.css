@@ -96,5 +96,11 @@ body{
     color: white;
 }
 .freccia-giu{
-   font-size: 12px;
+   font-size: 9px;
+}
+.check{
+    color: greenyellow;
+}
+.none{
+    color: red;
 }
