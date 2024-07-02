@@ -23,3 +23,26 @@ h1{
 body{
     background-color: rgb(208, 208, 208);
 }
+#main{
+    margin: 70px 300px;
+    background-color: rgb(252, 252, 252);
+}
+#add-task{
+    background-color: rgb(0, 140, 255);
+    border-radius: 10%;
+    padding: 5px;
+    color: rgb(247, 247, 247);
+}
+#add-section{
+    background-color: white;
+    border-radius: 10%;
+    padding: 5px;
+    color: rgb(163, 158, 158);
+}
+.margin-main{
+    margin: 10px;
+}
+.separator{
+    margin: 10px 0;
+    border: 1px solid lightgray;
+}
