@@ -20,6 +20,6 @@ h1{
     vertical-align: middle;
 }
 /* main */
-.container{
-    margin: 10px auto; 
+body{
+    background-color: rgb(208, 208, 208);
 }
