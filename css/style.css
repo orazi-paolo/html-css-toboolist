@@ -39,10 +39,17 @@ body{
     padding: 5px;
     color: rgb(163, 158, 158);
 }
-.margin-main{
+.margin-button{
     margin: 10px;
 }
 .separator{
     margin: 10px 0;
     border: 1px solid lightgray;
+}
+.title-list{
+    margin-top: 20px;
+}
+.distance-row{
+    margin-top: 10px;
+    size: 12px;
 }
